@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heartbreaks
 - 👀 I’m interested in JavaScript and Web Development
 - 🌱 I’m currently learning network requests  in JavaScript
-- 💞️ I’m looking to collaborate on ✨ Google ✨ :D
+- 💞️ I’m looking to collaborate on ✨ AI ✨ :D
 - 📫 How to reach me: gmail: sergeykhokhlov12345678@gmail.com
 
 <!---
